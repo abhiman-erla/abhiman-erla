@@ -11,6 +11,7 @@ Based in Orlando, FL. Open to relocation and remote work.
 | Project | What it is | Tech |
 |---|---|---|
 | [Task & Workflow API](https://github.com/abhiman-erla/task-workflow-management) | REST API with an enforced task workflow, role-based access, and automated tests | Java 21, Spring Boot 3, PostgreSQL, JWT, Testcontainers |
+| [Zendra](https://github.com/abhiman-erla/zendra) | Codebase Q&A assistant that answers with file and line citations, using AST-aware chunking and hybrid search | Node.js, Qdrant, OpenAI embeddings, Claude API |
 | [Default Risk Pipeline](https://github.com/abhiman-erla/default-risk-pipeline) | Machine learning pipeline that predicts loan charge-offs, with experiment tracking and leakage checks | Python, LightGBM, MLflow, Docker |
 | [Ethos](https://github.com/abhiman-erla/ethos) | Release operations dashboard with infrastructure as code and monitoring | Node.js, PostgreSQL, Docker, Terraform, Prometheus, Grafana |
 | [Helios TaskOps](https://github.com/abhiman-erla/helios) | Containerized full-stack task app, with its cloud platform in progress | React, Node.js, PostgreSQL, Docker Compose |
